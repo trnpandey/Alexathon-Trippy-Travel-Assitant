@@ -1,4 +1,4 @@
-# Alexathon--Trippy-Travel-Assitant
+# Alexathon--Trippy-Travel-Assistant
 Developed a Alexa Skillset that would give real time information about Railways,Flights,Buses and Nearby Places.
 
 Skill Name: Travel Assistant using EchoDot(Alexa)
